@@ -16,9 +16,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MoviesAssignment">
         <activity
-            android:name=".ui.movie.MainActivity"
-            android:exported="false" />
-        <activity
             android:name=".ui.movie.MainActivity2"
             android:exported="true">
             <intent-filter>
