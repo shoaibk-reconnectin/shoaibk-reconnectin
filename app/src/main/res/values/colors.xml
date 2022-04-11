@@ -9,4 +9,13 @@
     <color name="white">#FFFFFFFF</color>
     <color name="bg">#F8F8F8</color>
     <color name="gray">#CACACA</color>
+
+    <color name="sky_blue">#2196F3</color>
+    <color name="sky_blue_light">#A2D6FF</color>
+    <color name="sky_blue_dark">#0369BA</color>
+
+    <!--For Circle Background-->
+    <color name="background_start">@color/sky_blue_dark</color>
+    <color name="background_center">@color/sky_blue</color>
+    <color name="background_end">@color/sky_blue_light</color>
 </resources>
